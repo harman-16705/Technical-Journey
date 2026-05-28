@@ -21,6 +21,8 @@ This repository contains my:
 
 Built **SafeLancer**, a MERN-based freelance escrow platform with authentication systems, payment workflows, and real-time communication features.
 
+Github Repo: https://github.com/harman-16705/SAFELANCER
+
 ---
 
 ## BGI Hackathon 2026
@@ -29,6 +31,8 @@ Built **SafeLancer**, a MERN-based freelance escrow platform with authentication
 **Team Size:** 4
 
 Built **Margdarshan.ai**, a multilingual AI-powered grievance redressal platform using FastAPI, PostgreSQL, and conversational AI workflows.
+
+Github Repo: https://github.com/harman-16705/margdarshan.ai
 
 ---
 
@@ -39,6 +43,8 @@ Built **Margdarshan.ai**, a multilingual AI-powered grievance redressal platform
 **Achievement:** First Position
 
 Built **After Life**, a digital memory preservation system with nominee-based access workflows using PostgreSQL and MERN stack.
+
+Github Repo: https://github.com/harman-16705/after-life
 
 ---
 
