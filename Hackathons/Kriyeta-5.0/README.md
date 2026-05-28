@@ -15,3 +15,7 @@ SafeLancer
 ## Description
 
 SafeLancer is a MERN-based freelance escrow platform designed to improve trust and payment security between freelancers and clients through milestone-based workflows, authentication systems, and real-time communication.
+
+## Github Repo
+
+https://github.com/harman-16705/SAFELANCER
