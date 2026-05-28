@@ -46,7 +46,7 @@ Built **After Life**, a digital memory preservation system with nominee-based ac
 
 * PostgreSQL Certification — EduPyramids, SINE IIT Bombay
 * HTML Certification — Spoken Tutorial Project, IIT Bombay
-* CSS Certification — Spoken Tutorial Project, IIT Bombay
+* CSS Certification — EduPyramids, SINE IIT Bombay
 
 ---
 
